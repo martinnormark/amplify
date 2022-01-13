@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.0",
+  "appInfo": {
+    "name": "Amplify",
+    "description": "",
+    "version": "bm89n3st",
+    "id": "ckyd1jxa924626501s64j389q6s",
+    "url": "https://app.amplication.com/ckyd1jxa924626501s64j389q6s",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckyd1jxa924626501s64j389q6s",
+      "authProvider": "Jwt"
+    }
+  }
+}

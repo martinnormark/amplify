@@ -1,0 +1,10 @@
+import { ArgsType, Field } from "@nestjs/graphql";
+import { InspectionWhereUniqueInput } from "./InspectionWhereUniqueInput";
+
+@ArgsType()
+class InspectionFindUniqueArgs {
+  @Field(() => InspectionWhereUniqueInput, { nullable: false })
+  where!: InspectionWhereUniqueInput;
+}
+
+export { InspectionFindUniqueArgs };
